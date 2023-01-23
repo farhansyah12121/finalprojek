@@ -1,0 +1,179 @@
+2019-06-23 16:59:19,588 Instabot Started
+2019-06-23 16:59:47,263 Logged-in successfully as 'kurniaelektronikjogja'!
+2019-06-23 17:00:33,404 Going to follow 82 users.
+2019-06-23 17:01:50,060 DONE: Now following 0 users in total.
+2019-06-24 10:48:29,194 Instabot Started
+2019-06-24 13:48:03,811 Instabot Started
+2019-06-24 13:48:08,614 Logged-in successfully as 'kurniaelektronikjogja'!
+2019-06-24 13:48:46,726 Follow followers of: isiyogyakarta_official
+2019-06-24 13:49:28,960 Going to follow 6682 users.
+2019-06-24 14:00:44,070 Request returns 429 error!
+2019-06-24 14:00:44,071 That means 'too many requests'. I'll go to sleep for 5 minutes.
+2019-06-24 14:11:33,076 Request returns 429 error!
+2019-06-24 14:11:33,077 That means 'too many requests'. I'll go to sleep for 5 minutes.
+2019-06-24 14:34:03,574 HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/users/2158591804/info/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb5e558b0>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2019-06-24 22:10:56,835 Instabot Started
+2019-06-24 22:11:06,468 Request returns 400 error!
+2019-06-24 22:11:06,469 Instagram's error message: Invalid Parameters
+2019-06-24 22:11:06,470 Error type: missing_parameters
+2019-06-24 22:11:06,471 Username or password is incorrect.
+2019-06-24 22:11:29,808 Follow following of: kaawld
+2019-06-24 22:11:29,809 Not logged in!
+2019-06-24 22:11:29,810 error, read exception bellow
+2019-06-24 22:11:29,810 Not logged in!
+2019-06-24 22:13:00,847 Follow following of: fortnite
+2019-06-24 22:13:00,848 Not logged in!
+2019-06-24 22:13:00,849 error, read exception bellow
+2019-06-24 22:13:00,849 Not logged in!
+2019-06-24 22:13:14,099 Instabot Started
+2019-06-24 22:13:49,166 Request returns 400 error!
+2019-06-24 22:13:49,168 Instagram's error message: challenge_required
+2019-06-24 22:13:49,168 Error type: checkpoint_challenge_required
+2019-06-24 22:13:49,169 Username or password is incorrect.
+2019-06-24 22:14:12,850 Follow following of: fortnite
+2019-06-24 22:14:12,851 Not logged in!
+2019-06-24 22:14:12,852 error, read exception bellow
+2019-06-24 22:14:12,852 Not logged in!
+2019-06-24 22:14:31,179 Follow following of: fortnite
+2019-06-24 22:14:31,180 Not logged in!
+2019-06-24 22:14:31,181 error, read exception bellow
+2019-06-24 22:14:31,181 Not logged in!
+2019-06-24 22:15:03,284 error, read exception bellow
+2019-06-24 22:15:03,285 'ds_user_id'
+2019-06-24 22:15:26,501 Instabot Started
+2019-06-24 22:18:59,150 Instabot Started
+2019-06-24 22:19:19,034 Logged-in successfully as 'kaawld'!
+2019-06-24 22:19:30,475 Follow following of: fortnite
+2019-06-24 22:19:34,655 Going to follow 7 users.
+2019-06-24 22:20:00,522 DONE: Now following 0 users in total.
+2019-06-26 13:20:50,852 Instabot Started
+2019-06-26 13:21:19,671 Logged-in successfully as 'kaawld'!
+2019-06-26 13:31:21,216 Going to follow 80 users.
+2019-06-26 13:35:44,575 DONE: Now following 0 users in total.
+2019-06-26 13:37:55,143 Instabot Started
+2019-06-26 13:40:07,350 Instabot Started
+2019-06-26 13:40:29,137 Request returns 400 error!
+2019-06-26 13:40:29,139 Instagram's error message: The password you entered is incorrect. Please try again.
+2019-06-26 13:40:29,150 Error type: bad_password
+2019-06-26 13:40:29,151 Username or password is incorrect.
+2019-06-26 13:40:42,846 error, read exception bellow
+2019-06-26 13:40:42,848 'ds_user_id'
+2019-06-26 13:41:07,533 error, read exception bellow
+2019-06-26 13:41:07,534 'ds_user_id'
+2019-06-26 13:41:15,837 error, read exception bellow
+2019-06-26 13:41:15,838 'ds_user_id'
+2019-06-26 13:41:33,568 error, read exception bellow
+2019-06-26 13:41:33,570 'ds_user_id'
+2019-06-26 13:42:53,173 Instabot Started
+2019-06-26 13:43:16,835 Request returns 400 error!
+2019-06-26 13:43:16,836 Instagram's error message: The password you entered is incorrect. Please try again.
+2019-06-26 13:43:16,836 Error type: bad_password
+2019-06-26 13:43:16,838 Username or password is incorrect.
+2019-06-26 13:43:35,756 Follow followers of: fortnite
+2019-06-26 13:43:35,758 Not logged in!
+2019-06-26 13:43:35,758 error, read exception bellow
+2019-06-26 13:43:35,759 Not logged in!
+2019-06-26 13:44:20,448 Instabot Started
+2019-06-26 13:44:41,314 Request returns 400 error!
+2019-06-26 13:44:41,316 Instagram's error message: The password you entered is incorrect. Please try again.
+2019-06-26 13:44:41,318 Error type: bad_password
+2019-06-26 13:44:41,324 Username or password is incorrect.
+2019-06-26 13:44:49,256 error, read exception bellow
+2019-06-26 13:44:49,257 'ds_user_id'
+2019-06-26 13:45:10,468 Follow followers of: jokowi
+2019-06-26 13:45:10,469 Not logged in!
+2019-06-26 13:45:10,470 error, read exception bellow
+2019-06-26 13:45:10,470 Not logged in!
+2019-06-26 13:45:21,545 error, read exception bellow
+2019-06-26 13:45:21,546 'ds_user_id'
+2019-07-02 13:50:34,441 Instabot Started
+2019-07-02 13:54:21,344 Logged-in successfully as 'kurniaelektronikjogja'!
+2019-07-02 13:57:10,777 Going to follow 80 users.
+2019-07-02 15:04:24,111 Instabot Started
+2019-07-03 13:48:36,670 Instabot Started
+2019-07-03 13:51:39,093 Logged-in successfully as 'kurniaelektronikjogja'!
+2019-07-03 13:52:25,247 Going to follow 83 users.
+2019-07-03 13:55:45,718 Instabot Started
+2019-07-03 13:56:08,461 Logged-in successfully as 'kaawld'!
+2019-07-03 13:56:32,946 Going to follow 84 users.
+2019-07-03 13:57:23,242 Instabot Started
+2019-07-03 13:57:30,310 Logged-in successfully as 'kaawld'!
+2019-07-03 13:58:06,053 Follow followers of: nenden._.v
+2019-07-03 13:58:17,362 Going to follow 1130 users.
+2019-07-03 14:03:29,704 Request returns 429 error!
+2019-07-03 14:03:29,705 That means 'too many requests'. I'll go to sleep for 5 minutes.
+2019-07-03 14:13:37,168 Request returns 429 error!
+2019-07-03 14:13:37,170 That means 'too many requests'. I'll go to sleep for 5 minutes.
+2019-07-03 14:20:18,546 Bot stopped. Worked: 0:22:55.303499
+2019-07-03 14:20:18,548 Total requests: 244
+2019-07-03 14:22:49,362 Instabot Started
+2019-07-03 14:22:53,630 Logged-in successfully as 'kaawld'!
+2019-07-03 14:23:04,289 Follow following of: annisahaura4
+2019-07-03 14:23:06,256 Going to follow 9 users.
+2019-07-03 14:23:35,129 DONE: Now following 0 users in total.
+2019-07-04 10:59:10,183 Instabot Started
+2019-07-04 11:12:43,298 Logged-in successfully as 'kaawld'!
+2019-07-04 11:13:10,284 error, read exception bellow
+2019-07-04 11:13:10,286 list index out of range
+2019-07-04 11:14:45,099 Follow following of: 5
+2019-07-04 11:15:02,034 Going to follow 785 users.
+2019-07-04 11:28:01,834 Bot stopped. Worked: 0:13:16.734017
+2019-07-04 11:28:01,836 Total requests: 255
+2019-07-04 11:28:01,849 error, read exception bellow
+2019-07-04 11:28:01,850 [Errno 5] I/O error
+2019-07-04 11:28:02,852 error, read exception bellow
+2019-07-04 11:28:02,853 [Errno 5] I/O error
+2019-07-13 14:40:15,397 Instabot Started
+2019-07-13 14:40:46,888 Logged-in successfully as 'emgud22'!
+2019-07-13 14:41:08,175 Error checking for `feedback_required`, response text is not JSON
+2019-07-13 14:41:08,177 Error while getting hashtag feed.
+2019-07-13 14:41:08,178 Going to follow 0 users.
+2019-07-13 14:41:08,483 DONE: Now following 0 users in total.
+2019-07-13 14:43:45,400 ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2019-07-13 14:43:47,570 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:43:49,350 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:43:53,193 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:43:55,087 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:43:57,234 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:43:59,365 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:01,593 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:03,663 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:04,648 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:05,876 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:09,312 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:12,697 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:16,697 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:17,773 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:18,847 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:21,954 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:23,057 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:24,758 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:26,081 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:31,188 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:33,575 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:37,249 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:39,699 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:41,550 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:42,685 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:44,219 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:45,518 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:49,274 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:51,429 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:55,111 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:44:56,824 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:46:25,093 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:46:25,923 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:46:25,923 error, read exception bellow
+2019-07-13 14:46:25,923 'NoneType' object is not iterable
+2019-07-13 14:46:42,986 ('Connection aborted.', OSError(0, 'Error'))
+2019-07-13 14:46:42,987 error, read exception bellow
+2019-07-13 14:46:42,987 'NoneType' object is not iterable
+2019-07-13 14:47:52,259 error, read exception bellow
+2019-07-13 14:47:52,260 Cannot choose from an empty sequence
+2019-07-13 14:48:08,246 Error checking for `feedback_required`, response text is not JSON
+2019-07-13 14:48:09,321 Request returns 400 error!
+2019-07-13 14:48:09,321 Instagram's error message: Not authorized to view user
+2019-07-13 14:48:09,322 Instagram's error message: {}
+2019-07-13 14:48:09,323 This is a closed account.
+2019-07-13 14:48:47,315 ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+2019-07-13 14:48:47,316 This is a closed account.
